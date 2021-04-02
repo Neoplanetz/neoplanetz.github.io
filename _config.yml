@@ -22,5 +22,5 @@ paginate:         5
 # Custom vars
 version:          1.0
 
-github:           https://github.com/Neoplanetz
-  repo:           https://github.com/Neoplanetz/neoplanetz.github.io
+github:           
+  repo:           https://github.com/Neoplanetz
