@@ -11,7 +11,7 @@ title:            Neoplanetz
 tagline:          'To wide knowledge'
 description:      'New Neoplanetz Blog'
 url:              https://neoplanetz.github.io/
-baseurl:          /
+baseurl:          https://neoplanetz.github.io//
 
 author:
   name:           'YoHan Jung'
